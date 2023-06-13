@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #A9A9A9;
+}
+
+input[type="text"] {
+  width: 500px;
+  padding: 10px;
+}
+
+input[type="password"] {
+   width: 500px;
+  padding: 10px;
+}
+
+input[type="email"] {
+   width: 500px;
+  padding: 10px;
+}
+
+form {
+  padding-left: 30px;
+}
